@@ -5,7 +5,7 @@ var favouriteSnacks =["icecream", "chocolate", "yoghurt"];
 
 var me = {
     "name": name,
-    "age": age;
+    "age": age,
     "favouriteSnacks": favouriteSnacks,
     "favouritePizza": "Chicken Periperi"
 };
@@ -13,3 +13,4 @@ var me = {
 console.log(favouriteSnacks);
 console.log(me["name"]);
 console.log(me.favouritePizza);
+
